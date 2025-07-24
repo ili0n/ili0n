@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ili0n&show_icons=true&theme=nord)
 
 
@@ -8,7 +8,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ili0n&repo=Shuttle-mobile&theme=nord)](https://github.com/ili0n/Shuttle-mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ili0n&repo=Shuttle-front&theme=nord)](https://github.com/ili0n/Shuttle-front)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ili0n&repo=Shuttle-back&theme=nord)](https://github.com/ili0n/Shuttle-back)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ili0n&repo=Shuttle-mobile&theme=nord)](https://github.com/ili0n/Shuttle-mobile)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ili0n&repo=WalGOritam&theme=nord)](https://github.com/zograf/WalGOritam)
 <!--
