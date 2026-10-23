@@ -2,6 +2,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ili0n&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ili0n&repo=KG_cash&theme=nord)](https://github.com/EricYJA/KG_cash)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ili0n&repo=BSc_paper&theme=nord)](https://github.com/ili0n/BSc_paper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ili0n&repo=MalArenaBattleground&theme=nord)](https://github.com/ili0n/MalArenaBattleground)
